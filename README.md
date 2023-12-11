@@ -5,6 +5,11 @@ Framework Used: SwiftUI, MapKit, CoreLocation, SafariServices
 IDE/Tools: Xcode, Xcode Simulator
 Programming Language: Swift
 
+How to run the app?
+1. Install the Xcode, Xcode Simulator
+2. Open ExploreCity.xcodeproj file
+3. Run the app (cmd + R)
+
 App Demo:
 
 https://github.com/rojinpra7/ExploreCity/assets/89182903/eeaf3864-0195-44b4-86d0-3b6c9159fb5e
