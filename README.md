@@ -5,6 +5,12 @@ Framework Used: SwiftUI, MapKit, CoreLocation, SafariServices
 IDE/Tools: Xcode, Xcode Simulator
 Programming Language: Swift
 
+App Demo:
+
+https://github.com/rojinpra7/ExploreCity/assets/89182903/eeaf3864-0195-44b4-86d0-3b6c9159fb5e
+
+
+
 App Screenshot:
 ![1_LaunchScreen](https://github.com/rojinpra7/ExploreCity/assets/89182903/0dfc3000-bfe8-4943-b7d2-bfa37c26e149)
 ![2_UserInputView](https://github.com/rojinpra7/ExploreCity/assets/89182903/fea3396a-eb06-4059-9e2d-4c594884744d)
